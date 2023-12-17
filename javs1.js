@@ -17,3 +17,22 @@ console.log('Java');
 console.log('Script');
 /* comment
 comment  */
+let num1 = 180;
+let num2 = 100;
+let num3 = 120;
+console.log(num1+num2+num3);
+console.log(num3, num1, num2);
+const x = 'Светлана';
+console.log(x);
+let age = 96;
+console.log(age);
+console.log('Прошел Год');
+age = 97;
+console.log(age);
+let suorce;
+let destination;
+suorce = 'sigma';
+destination = suorce;
+suorce = 'delta';
+console.log(suorce);
+console.log(destination);
